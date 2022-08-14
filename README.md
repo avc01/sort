@@ -1,8 +1,9 @@
 # sort
+
 easy sort project using typescript and nodejs
 
-dependencies:
+## dependencies:
 
-typescript
-nodemon
-concurrently
+- typescript
+- nodemon
+- concurrently
